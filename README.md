@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Mai Quoc Khanh</h1>
 <h3 align="center">I'm from Viet Nam</h3>
-![](https://komarev.com/ghpvc/?username=maiquockhanh)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maiquockhanh)](https://github.com/anuraghazra/github-readme-stats)
 
